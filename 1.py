@@ -36,3 +36,11 @@ result = ''.join([f"{x}{y}" for x, y in unique_pairs])
 
 print(number, '-', result)
 
+bool(123)
+bool(0)
+bool(123.45)
+bool(0.0)
+bool('123')
+bool('0')
+bool('')
+bool(None)
