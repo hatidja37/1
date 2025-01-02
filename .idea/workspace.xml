@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54b3808b-2448-464f-b6d1-af0c2650266b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_4_fake_math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_4_true_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_4_1_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +59,7 @@
     "Python.module_3_5.executor": "Run",
     "Python.module_3_dop.executor": "Run",
     "Python.module_4_1.executor": "Run",
+    "Python.module_4_1_1.executor": "Run",
     "Python.module_4_fake_math.executor": "Run",
     "Python.module_4_true_math.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
