@@ -3,25 +3,10 @@ class House:
         self.name = name
         self._number_floor = number_floor
 
-    # def go_to(self, new_floor):
-    #
-    #     # print(f"Название дома: {self.name}; Kол-во этажей в доме: {self._number_floor}")
-    #     print(f"Какой этаж вызываем: {new_floor}")
-    #     if 1 <= new_floor <= self._number_floor:
-    #         while True:
-    #             for i in range(1, new_floor + 1):
-    #                 print(i)
-    #             else:
-    #                 break
-    #     else:
-    #         print('Такого этажа не существует')
-    # def __len__(self):
-    #     return self._number_floor
 
     def __str__(self):
         return f"Название: {self.name}, кол-во этажей: {self._number_floor}"
 
-    # if isinstance(other, int) and isinstance(other, House):
 
 # 1. __eq__(self, other) - должен возвращать True, если количество этажей одинаковое у self и у other.
     def __eq__(self, other):

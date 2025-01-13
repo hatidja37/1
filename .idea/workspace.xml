@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54b3808b-2448-464f-b6d1-af0c2650266b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/del.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/module_5_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/del.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_5_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_5_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,46 +36,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_triangle.executor": "Run",
-    "Python.02_calls_and_defaults.executor": "Run",
-    "Python.02_fractal.executor": "Run",
-    "Python.02_snowflake.executor": "Run",
-    "Python.03_arbitrary_params.executor": "Run",
-    "Python.04_practice.executor": "Run",
-    "Python.04_recursion.executor": "Run",
-    "Python.05_builtin.executor": "Run",
-    "Python.1.executor": "Run",
-    "Python._pydev_execfile.executor": "Debug",
-    "Python.del.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.module_2_2.executor": "Run",
-    "Python.module_2_3.executor": "Run",
-    "Python.module_2_4.executor": "Run",
-    "Python.module_2_5.executor": "Run",
-    "Python.module_2_6.executor": "Run",
-    "Python.module_3_1.executor": "Run",
-    "Python.module_3_2.executor": "Run",
-    "Python.module_3_3.executor": "Run",
-    "Python.module_3_4.executor": "Run",
-    "Python.module_3_5.executor": "Run",
-    "Python.module_3_dop.executor": "Run",
-    "Python.module_4_1.executor": "Run",
-    "Python.module_4_1_1.executor": "Run",
-    "Python.module_4_fake_math.executor": "Run",
-    "Python.module_4_true_math.executor": "Run",
-    "Python.module_5_1.executor": "Run",
-    "Python.module_5_2.executor": "Run",
-    "Python.module_5_3.executor": "Run",
-    "Python.nim_engine.executor": "Run",
-    "Python.ud.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_calls_and_defaults.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_fractal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_snowflake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_arbitrary_params.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_builtin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python._pydev_execfile.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.del.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_2_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_3_dop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_fake_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_4_true_math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_5_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nim_engine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ud.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
