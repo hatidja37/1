@@ -23,4 +23,3 @@
 # my_class_instance = MyClass.get_instance()
 # my_class_instance.print_message()  # Выводит "Hello, World!"
 
-
