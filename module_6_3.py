@@ -18,7 +18,8 @@ class Animal:
         else:
             self._cords[0] += self.speed * x
             self._cords[1] += self.speed * y
-            self._cords[2] = dz
+            self._cords[2] = dzcommit
+
 
     def get_cords(self):
         print(f"X:{self._cords[0]},Y:{self._cords[1]},Z:{self._cords[2]}")
